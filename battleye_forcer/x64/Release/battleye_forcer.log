@@ -1,0 +1,11 @@
+﻿  Forcer.cpp
+C:\Users\Mathieu\Desktop\BE-Forcer-Fortnite-main\battleye_forcer\battleye_forcer\Forcer.cpp(8,123): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Mathieu\Desktop\BE-Forcer-Fortnite-main\battleye_forcer\battleye_forcer\Forcer.cpp(28,124): warning C4390: ';': empty controlled statement found; is this the intent?
+  Logger.cpp
+  main.cpp
+C:\Users\Mathieu\Desktop\BE-Forcer-Fortnite-main\battleye_forcer\battleye_forcer\main.cpp(162,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  battleye_forcer.vcxproj -> C:\Users\Mathieu\Desktop\BE-Forcer-Fortnite-main\battleye_forcer\x64\Release\battleye_forcer.exe
